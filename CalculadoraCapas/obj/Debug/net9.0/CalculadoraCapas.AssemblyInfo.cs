@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraCapas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9332296de87edf41bd2c4242c6e799ddac27a739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45dc8477407477890e33445d7d032998a72ee3e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraCapas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraCapas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
