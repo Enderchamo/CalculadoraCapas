@@ -4,10 +4,10 @@ namespace CalculadoraCapas.Entidades
 
 {
     public class Operacion{      
-        public double Numero1 {get; protected set;}
-        public double Numero2 {get; protected set;}
+        public double Numero1 {get;  set;}
+        public double Numero2 {get;  set;}
 
-        public TipoOperacion TipoOperacion {get; protected set;   }
+        public string TipoOperacion {get;  set;   }
 
         public double Resultado {get; set; }
 

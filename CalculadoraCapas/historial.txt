@@ -1,4 +1,1 @@
-1 Suma 2 = 3
-1 Suma 3 = 4
-1 Suma 2 = 3
-657 Multiplicacion 567 = 372519
+2354 Multiplicacion 235 = 553190
