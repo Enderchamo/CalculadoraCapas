@@ -1,0 +1,15 @@
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\bin\Debug\net9.0\CalculadoraCapas.exe
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\bin\Debug\net9.0\CalculadoraCapas.deps.json
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\bin\Debug\net9.0\CalculadoraCapas.runtimeconfig.json
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\bin\Debug\net9.0\CalculadoraCapas.dll
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\bin\Debug\net9.0\CalculadoraCapas.pdb
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.AssemblyInfoInputs.cache
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.AssemblyInfo.cs
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.csproj.CoreCompileInputs.cache
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.sourcelink.json
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.dll
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\refint\CalculadoraCapas.dll
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.pdb
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\CalculadoraCapas.genruntimeconfig.cache
+C:\Users\Vicma\Documents\CalculadoraPorCapas\CalculadoraCapas\obj\Debug\net9.0\ref\CalculadoraCapas.dll
